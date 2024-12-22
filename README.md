@@ -1,1 +1,1 @@
-# DYpEN contains Julia code for the Davies-Yin prior Elatic-Net method presented in Waldmann (2023 to be published).
+# DYpEN contains Julia code for the Davis-Yin prior Regularization method presented in Waldmann and Fan (2025 to be published). It also contain R code for the INLA and BGLR packages.
